@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **tWwilight/tWwilight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align=center><h2>📞 Contact 💬</h2></div>
+
+<div align=center> 
+  <img src="https://img.shields.io/badge/brandon032@hanyang.ac.kr-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
+  <br>
+</div>
